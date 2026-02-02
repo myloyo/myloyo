@@ -16,6 +16,7 @@ Backend-разработчик | Java | Python
 #### 🌐 Backend & WEB Framewroks
 Java: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) · ![Spring Web](https://img.shields.io/badge/Spring%20Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
  · ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white) · ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) · ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white) · ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white) · ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) · ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white) · JWT Auth
+
 Python : ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) · ![Django REST](https://img.shields.io/badge/Django%20REST-FF1709?style=for-the-badge&logo=django&logoColor=white) · ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) · ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) · ![Ruff](https://img.shields.io/badge/Ruff-FCC21B?style=for-the-badge&logo=ruff&logoColor=black) · ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white) · ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) · unittest · Simple Auth
 
 #### 🗄️ Data Base
@@ -34,7 +35,7 @@ Python : ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badg
 
 ### 🚀 Проекты
 
-** 💸📝 Сайт регистрации на конференцию**  
+ 💸📝** Сайт регистрации на конференцию**  
 Backend-сервис для регистрации пользователей с проверкой оплаты чеков  и микросервисной архитектурой 
 - Проверка чеков и автоматизация регистрации  
 - Интеграция с внешними сервисами  

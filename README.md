@@ -1,67 +1,83 @@
-## Привет, я Настя 🤠😸
-Backend-разработчик | Java | Python 
+## Привет, я Настя!
+**Python Backend-разработчик**
 
-Студентка 4 курса СГУ  
-Направление: **«Математическое обеспечение и администрирование операционных систем»**  
-Профиль: **«Технологии программирования»**
+---
+
+### 🧠 О себе
+
+- Python-разработчик с практическим опытом в продуктовой и командной разработке.
+- Начинала с Python еще со школы: Telegram-боты, учебные проекты и подготовка к ЕГЭ.
+- В университете изучала машинное обучение и анализ данных, а в дипломе реализовала нейросеть для обработки аудиосигнала.
+- Интересуюсь AI-инструментами, которые помогают быстрее проектировать, писать и проверять код.
 
 ---
 
 ### 🧰 Технологический стек
 
 #### 💬 Языки программирования
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### 🌐 Backend & WEB Framewroks
-Java: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Web](https://img.shields.io/badge/Spring%20Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white) ![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge)
+#### 🌐 Backend & API
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-FF1709?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-Python : ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Django REST](https://img.shields.io/badge/Django%20REST-FF1709?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-FCC21B?style=for-the-badge&logo=ruff&logoColor=black) ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) unittest · Simple Auth
+#### 🗄️ Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
-#### 🗄️ Data Base
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+#### ⚙️ Infrastructure & Quality
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Unittest](https://img.shields.io/badge/Unittest-6E6E6E?style=for-the-badge) ![Ruff](https://img.shields.io/badge/Ruff-2C2C2C?style=for-the-badge&logo=ruff&logoColor=white) ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
 
-#### 🧩 Микросервисы и интеграции
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)  ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  ![Yandex Disk](https://img.shields.io/badge/Yandex%20Disk-FF0000?style=for-the-badge&logo=yandex&logoColor=white)  ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) ![WebHooks](https://img.shields.io/badge/WebHooks-4A4A4A?style=for-the-badge) ![SMTP](https://img.shields.io/badge/SMTP-0078D4?style=for-the-badge)
-
-#### ⚙️ Инфраструктура
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![HTTPS](https://img.shields.io/badge/HTTPS-0052CC?style=for-the-badge&logo=letsencrypt&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A8F?style=for-the-badge&logo=letsencrypt&logoColor=white)
-
-#### 🍪 Кеширование
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+#### 🤖 AI tools
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-F8C24E?style=for-the-badge&logo=anthropic&logoColor=black) ![DeepSeek](https://img.shields.io/badge/DeepSeek-0F172A?style=for-the-badge)
 
 ---
 
 ### 🚀 Проекты
 
-**💸📝 Сайт регистрации на конференцию  
-Backend-сервис для регистрации пользователей с проверкой оплаты чеков  и микросервисной архитектурой
-- Java, Spring Boot, Microservice, Redis, Kafka, JUnit, Mockito
-- Проверка чеков и автоматизация регистрации  
-- Интеграция с внешними сервисами  
-- Брокер сообщений, кеширование
-- Тестирование сервисов, миграции, рассылка почты
-🔗 https://github.com/myloyo/TeensConf_Register_Dev
+**🧬 Дипломный проект: нейросеть обработки аудиосигнала**  
+Приложение с ML-логикой для обработки аудио и анализа данных.  
+- Python, машинное обучение, анализ данных
+- Дипломная работа: разработка нейросети обработки аудио сигнала для приложения  
+🔗 [sonara_app_diploma](https://github.com/myloyo/sonara_app_diploma)
 
-**🌦️🌪️  Сервис для получения прогноза погоды**
+**🏥 Django-сервис для медицинской платформы**  
+Система взаимодействия между клиниками, врачами и пациентами.  
+- Python, Django, Django REST Framework, Swagger, Pytest, Poetry, Ruff
+- Интеграция Telegram-бота и почтовых уведомлений
+🔗 [HolyWeb_Summer_Prac](https://github.com/myloyo/HolyWeb_Summer_Prac)
 
-Backend-приложение с историей запросов и дополнительной логикой  
-Проект создан в ходе прохождения Java-практикума от Т-Банка 
-- Java, Spring Boot, Spring Security, JWT Auth, Swagger
-- Авторизация пользователей
-- История запросов  
-- Получение погоды по случайным координатам
-🔗 https://github.com/myloyo/t_bank_project_weather
+**💸 Сервис регистрации на конференцию**  
+Backend-сервис с микросервисной архитектурой и проверкой оплаты чеков.  
+- Java, Spring Boot, Redis, Kafka, JUnit, Mockito
+- Интеграция с внешними сервисами, кеширование, брокер сообщений
+🔗 [TeensConf_Register_Dev](https://github.com/myloyo/TeensConf_Register_Dev)
 
-**🩻🏥  Django проект организации медицинского сервиса**  
-Система взаимодействия между клиниками, врачами и пациентами
-- Python, Django, Swagger, Pytest, Poetry, Ruff, rest_framework
-- Интеграция Telegram-бота и почтовых уведомлений, simple auth
-🔗 https://github.com/myloyo/HolyWeb_Summer_Prac
+**🌦️ Сервис прогноза погоды**  
+Backend-приложение с историей запросов и авторизацией пользователей.  
+- Java, Spring Boot, Spring Security, JWT, Swagger
+- Работа с историей запросов и генерацией координат
+🔗 [t_bank_project_weather](https://github.com/myloyo/t_bank_project_weather)
+
+---
+
+### 💼 Опыт
+
+**Python Developer Intern, T-Bank**  
+- Работа с внутренним S3 Object Storage и backend-инфраструктурой.
+- Рефакторинг устаревших доменных сущностей.
+- OpenAPI-спецификация ошибок, server-side pagination, асинхронная реконсиляция состояния бакетов.
+- Работа с логами, метриками, релизами, инцидентами и внутренними командами
+- Стек: FastAPI, SQLAlchemy, Pytest, Docker, K8s, Celery, PostgreSQL.
+
+**Junior Python Developer, Holyweb**  
+- Разработка Telegram-бота для поддержки и вебхука для Jira.
+- Доработка пользовательских и административных методов, включая идемпотентность бронирований.
+- Работа с Celery, авторизацией, интеграциями и unit-тестами.
+- Стек: Django, Django ORM, Django REST Framework, Celery, Redis, PostgreSQL, Docker.
+
+---
 
 ### 📫 Контакты
-Telegram: @myloyorrr_still
 
-Email: myloyorrrstill@gmail.com
-
-VK: @myloyo
-
+- Telegram: [@myloyorrr_still](https://telegram.me/myloyorrr_still)
+- Email: [myloyorrrstill@gmail.com](mailto:myloyorrrstill@gmail.com)
+- VK: @myloyo

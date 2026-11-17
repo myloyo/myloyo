@@ -176,12 +176,3 @@ Main responsibilities:
 
 Stack: Django, Django ORM, Django REST Framework, unittest, Celery, Redis, PostgreSQL, Docker  
 Process: Scrum with daily standups, 2-week sprints, demos, monthly retros, grooming twice a week. Jira for tasks, Confluence for docs.
-
----
-
-### 📫 Contacts
-
-- Telegram: [@myloyorrr_still](https://telegram.me/myloyorrr_still)
-- Email: [myloyorrrstill@gmail.com](mailto:myloyorrrstill@gmail.com)
-- Resume (HH.ru): <https://saratov.hh.ru/resume/52c46365ff10dcc98f0039ed1f7a6567547030>
-- Resume (Hexlet): <https://cv.hexlet.io/ru/resumes/18675>
